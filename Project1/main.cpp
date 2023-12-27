@@ -66,6 +66,9 @@ int main()
 
 	cout << (third == first) << endl;
 
+	int a = 10;
+	cout << a << endl;
+
 
 	return 0;
 }
